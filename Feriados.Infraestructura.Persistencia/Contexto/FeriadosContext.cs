@@ -11,6 +11,7 @@ namespace Feriados.Infraestructura.Persistencia.Contexto
         public DbSet<Tipo> Tipos { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //Estructura
             modelBuilder.Entity<Festivo>(entidad =>
             {
                 entidad.HasKey(e => e.Id);
