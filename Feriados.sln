@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feriados.Dominio", "Feriados\Feriados.Dominio.csproj", "{526F5419-70DE-42A5-BB8C-EA63B1F61C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Feriados.Infraestructura.Persistencia", "Feriados.Infraestructura.Persistencia\Feriados.Infraestructura.Persistencia.csproj", "{07853DAF-EC63-45BE-9BEE-027F067E1EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{526F5419-70DE-42A5-BB8C-EA63B1F61C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526F5419-70DE-42A5-BB8C-EA63B1F61C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526F5419-70DE-42A5-BB8C-EA63B1F61C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526F5419-70DE-42A5-BB8C-EA63B1F61C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07853DAF-EC63-45BE-9BEE-027F067E1EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07853DAF-EC63-45BE-9BEE-027F067E1EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07853DAF-EC63-45BE-9BEE-027F067E1EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07853DAF-EC63-45BE-9BEE-027F067E1EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D1C1E4-5DC3-4FDA-9C16-D79C96EB34DD}
+	EndGlobalSection
+EndGlobal
