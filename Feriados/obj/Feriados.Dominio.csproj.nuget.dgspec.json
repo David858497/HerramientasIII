@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados\\Feriados.Dominio.csproj": {}
+    "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados\\Feriados.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados\\Feriados.Dominio.csproj": {
+    "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados\\Feriados.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados\\Feriados.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados\\Feriados.Dominio.csproj",
         "projectName": "Feriados.Dominio",
-        "projectPath": "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados\\Feriados.Dominio.csproj",
+        "projectPath": "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados\\Feriados.Dominio.csproj",
         "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados\\obj\\",
+        "outputPath": "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juanj\\AppData\\Roaming\\NuGet\\NuGet.Config",

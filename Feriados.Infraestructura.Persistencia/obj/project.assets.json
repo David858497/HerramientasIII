@@ -1,7 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
+    "net6.0": {
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.2": {
+        "type": "package"
+      },
       "Feriados.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +18,21 @@
     }
   },
   "libraries": {
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.2": {
+      "sha512": "PN65soRvSajLqr1kVRvpUwqI/rmab4x/6TxcYzyUVvg52DMPxx4Y760EZ6OzFhJnilP/WFEEzdftHsTsHQ64IQ==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "PACKAGE.md",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
+        "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
+        "microsoft.entityframeworkcore.sqlserver.9.0.2.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.nuspec"
+      ]
+    },
     "Feriados.Dominio/1.0.0": {
       "type": "project",
       "path": "../Feriados/Feriados.Dominio.csproj",
@@ -22,8 +40,9 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "Feriados.Dominio >= 1.0.0"
+    "net6.0": [
+      "Feriados.Dominio >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2"
     ]
   },
   "packageFolders": {
@@ -32,29 +51,29 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
       "projectName": "Feriados.Infraestructura.Persistencia",
-      "projectPath": "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
+      "projectPath": "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
       "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados.Infraestructura.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados.Infraestructura.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juanj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados\\Feriados.Dominio.csproj": {
-              "projectPath": "C:\\Users\\juanj\\source\\repos\\Feriados\\Feriados\\Feriados.Dominio.csproj"
+            "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados\\Feriados.Dominio.csproj": {
+              "projectPath": "C:\\Users\\juanj\\Downloads\\Feriados\\Feriados\\Feriados.Dominio.csproj"
             }
           }
         }
@@ -66,8 +85,14 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[9.0.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -79,8 +104,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete Microsoft.EntityFrameworkCore.SqlServer 9.0.2 no es compatible con net6.0 (.NETCoreApp,Version=v6.0). El paquete Microsoft.EntityFrameworkCore.SqlServer 9.0.2 admite: net8.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
