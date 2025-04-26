@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B69FAE9D-23E5-45CC-8AC9-EC9457415269}|Feriados.Aplicacion\\Feriados.Aplicacion.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.aplicacion\\servicios\\festivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69FAE9D-23E5-45CC-8AC9-EC9457415269}|Feriados.Aplicacion\\Feriados.Aplicacion.csproj|solutionrelative:feriados.aplicacion\\servicios\\festivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.presentacion\\controllers\\festivocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|solutionrelative:feriados.presentacion\\controllers\\festivocontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.presentacion\\di\\inyecciondependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|solutionrelative:feriados.presentacion\\di\\inyecciondependencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526F5419-70DE-42A5-BB8C-EA63B1F61C07}|Feriados\\Feriados.Dominio.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados\\entidades\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526F5419-70DE-42A5-BB8C-EA63B1F61C07}|Feriados\\Feriados.Dominio.csproj|solutionrelative:feriados\\entidades\\festivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.core\\repositorios\\ifestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|solutionrelative:feriados.core\\repositorios\\ifestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.core\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|solutionrelative:feriados.core\\servicios\\ifestivoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838CC9-FD8E-430A-8FD6-0359F07FA033}|Feriados.Repositorios\\Feriados.Repositorios.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.repositorios\\tipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9838CC9-FD8E-430A-8FD6-0359F07FA033}|Feriados.Repositorios\\Feriados.Repositorios.csproj|solutionrelative:feriados.repositorios\\tipofestivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838CC9-FD8E-430A-8FD6-0359F07FA033}|Feriados.Repositorios\\Feriados.Repositorios.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.repositorios\\festivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9838CC9-FD8E-430A-8FD6-0359F07FA033}|Feriados.Repositorios\\Feriados.Repositorios.csproj|solutionrelative:feriados.repositorios\\festivorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07853DAF-EC63-45BE-9BEE-027F067E1EEB}|Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.infraestructura.persistencia\\contexto\\feriadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07853DAF-EC63-45BE-9BEE-027F067E1EEB}|Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj|solutionrelative:feriados.infraestructura.persistencia\\contexto\\feriadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526F5419-70DE-42A5-BB8C-EA63B1F61C07}|Feriados\\Feriados.Dominio.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados\\entidades\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{526F5419-70DE-42A5-BB8C-EA63B1F61C07}|Feriados\\Feriados.Dominio.csproj|solutionrelative:feriados\\entidades\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.core\\repositorios\\itipoferiadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|solutionrelative:feriados.core\\repositorios\\itipoferiadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.core\\servicios\\serviciofechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|solutionrelative:feriados.core\\servicios\\serviciofechas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69FAE9D-23E5-45CC-8AC9-EC9457415269}|Feriados.Aplicacion\\Feriados.Aplicacion.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.aplicacion\\servicios\\tiposervicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69FAE9D-23E5-45CC-8AC9-EC9457415269}|Feriados.Aplicacion\\Feriados.Aplicacion.csproj|solutionrelative:feriados.aplicacion\\servicios\\tiposervicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.core\\servicios\\itipoferiadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|solutionrelative:feriados.core\\servicios\\itipoferiadoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69FAE9D-23E5-45CC-8AC9-EC9457415269}|Feriados.Aplicacion\\Feriados.Aplicacion.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.aplicacion\\feriados.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B69FAE9D-23E5-45CC-8AC9-EC9457415269}|Feriados.Aplicacion\\Feriados.Aplicacion.csproj|solutionrelative:feriados.aplicacion\\feriados.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.presentacion\\feriados.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|solutionrelative:feriados.presentacion\\feriados.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07853DAF-EC63-45BE-9BEE-027F067E1EEB}|Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.infraestructura.persistencia\\feriados.infraestructura.persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07853DAF-EC63-45BE-9BEE-027F067E1EEB}|Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj|solutionrelative:feriados.infraestructura.persistencia\\feriados.infraestructura.persistencia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{526F5419-70DE-42A5-BB8C-EA63B1F61C07}|Feriados\\Feriados.Dominio.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados\\feriados.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{526F5419-70DE-42A5-BB8C-EA63B1F61C07}|Feriados\\Feriados.Dominio.csproj|solutionrelative:feriados\\feriados.dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.core\\feriados.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C866938B-221C-47F9-AF1B-1F66CE5660BD}|Feriados.Core\\Feriados.Core.csproj|solutionrelative:feriados.core\\feriados.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9838CC9-FD8E-430A-8FD6-0359F07FA033}|Feriados.Repositorios\\Feriados.Repositorios.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.repositorios\\feriados.repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9838CC9-FD8E-430A-8FD6-0359F07FA033}|Feriados.Repositorios\\Feriados.Repositorios.csproj|solutionrelative:feriados.repositorios\\feriados.repositorios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|c:\\users\\juanj\\downloads\\herramientasiii-main\\herramientasiii-main\\feriados.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3DDA839-8698-42A6-93B4-EF6B08F2B0DE}|Feriados.Presentacion\\Feriados.Presentacion.csproj|solutionrelative:feriados.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FestivoControlador.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\Controllers\\FestivoControlador.cs",
+              "RelativeDocumentMoniker": "Feriados.Presentacion\\Controllers\\FestivoControlador.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\Controllers\\FestivoControlador.cs",
+              "RelativeToolTip": "Feriados.Presentacion\\Controllers\\FestivoControlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:30:26.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoFestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Repositorios\\TipoFestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "Feriados.Repositorios\\TipoFestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Repositorios\\TipoFestivoRepositorio.cs",
+              "RelativeToolTip": "Feriados.Repositorios\\TipoFestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:19:52.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Servicios\\IFestivoServicio.cs",
+              "RelativeDocumentMoniker": "Feriados.Core\\Servicios\\IFestivoServicio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Servicios\\IFestivoServicio.cs",
+              "RelativeToolTip": "Feriados.Core\\Servicios\\IFestivoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T01:54:38.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Repositorios\\IFestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "Feriados.Core\\Repositorios\\IFestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Repositorios\\IFestivoRepositorio.cs",
+              "RelativeToolTip": "Feriados.Core\\Repositorios\\IFestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:11:50.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Festivo.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Entidades\\Festivo.cs",
+              "RelativeDocumentMoniker": "Feriados\\Entidades\\Festivo.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Entidades\\Festivo.cs",
+              "RelativeToolTip": "Feriados\\Entidades\\Festivo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:06:08.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FestivoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "RelativeDocumentMoniker": "Feriados.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "RelativeToolTip": "Feriados.Aplicacion\\Servicios\\FestivoServicio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:07:44.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InyeccionDependencias.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\DI\\InyeccionDependencias.cs",
+              "RelativeDocumentMoniker": "Feriados.Presentacion\\DI\\InyeccionDependencias.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\DI\\InyeccionDependencias.cs",
+              "RelativeToolTip": "Feriados.Presentacion\\DI\\InyeccionDependencias.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:32:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FestivoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Repositorios\\FestivoRepositorio.cs",
+              "RelativeDocumentMoniker": "Feriados.Repositorios\\FestivoRepositorio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Repositorios\\FestivoRepositorio.cs",
+              "RelativeToolTip": "Feriados.Repositorios\\FestivoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:15:37.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeriadosContext.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Infraestructura.Persistencia\\Contexto\\FeriadosContext.cs",
+              "RelativeDocumentMoniker": "Feriados.Infraestructura.Persistencia\\Contexto\\FeriadosContext.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Infraestructura.Persistencia\\Contexto\\FeriadosContext.cs",
+              "RelativeToolTip": "Feriados.Infraestructura.Persistencia\\Contexto\\FeriadosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:51:54.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Entidades\\Tipo.cs",
+              "RelativeDocumentMoniker": "Feriados\\Entidades\\Tipo.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Entidades\\Tipo.cs",
+              "RelativeToolTip": "Feriados\\Entidades\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T03:06:08.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITipoFeriadoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Repositorios\\ITipoFeriadoRepositorio.cs",
+              "RelativeDocumentMoniker": "Feriados.Core\\Repositorios\\ITipoFeriadoRepositorio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Repositorios\\ITipoFeriadoRepositorio.cs",
+              "RelativeToolTip": "Feriados.Core\\Repositorios\\ITipoFeriadoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:14:12.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServicioFechas.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Servicios\\ServicioFechas.cs",
+              "RelativeDocumentMoniker": "Feriados.Core\\Servicios\\ServicioFechas.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Servicios\\ServicioFechas.cs",
+              "RelativeToolTip": "Feriados.Core\\Servicios\\ServicioFechas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T05:03:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Servicios\\TipoServicio.cs",
+              "RelativeDocumentMoniker": "Feriados.Aplicacion\\Servicios\\TipoServicio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Servicios\\TipoServicio.cs",
+              "RelativeToolTip": "Feriados.Aplicacion\\Servicios\\TipoServicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:07:53.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITipoFeriadoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Servicios\\ITipoFeriadoServicio.cs",
+              "RelativeDocumentMoniker": "Feriados.Core\\Servicios\\ITipoFeriadoServicio.cs",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Servicios\\ITipoFeriadoServicio.cs",
+              "RelativeToolTip": "Feriados.Core\\Servicios\\ITipoFeriadoServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T02:09:58.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Feriados.Aplicacion.csproj",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Feriados.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "Feriados.Aplicacion\\Feriados.Aplicacion.csproj",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Feriados.Aplicacion.csproj",
+              "RelativeToolTip": "Feriados.Aplicacion\\Feriados.Aplicacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T04:24:29.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Feriados.Presentacion.csproj",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\Feriados.Presentacion.csproj",
+              "RelativeDocumentMoniker": "Feriados.Presentacion\\Feriados.Presentacion.csproj",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\Feriados.Presentacion.csproj",
+              "RelativeToolTip": "Feriados.Presentacion\\Feriados.Presentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T04:24:41.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Feriados.Infraestructura.Persistencia.csproj",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
+              "RelativeDocumentMoniker": "Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
+              "RelativeToolTip": "Feriados.Infraestructura.Persistencia\\Feriados.Infraestructura.Persistencia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T04:24:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Feriados.Dominio.csproj",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Feriados.Dominio.csproj",
+              "RelativeDocumentMoniker": "Feriados\\Feriados.Dominio.csproj",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Feriados.Dominio.csproj",
+              "RelativeToolTip": "Feriados\\Feriados.Dominio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T04:01:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Feriados.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Feriados.Core.csproj",
+              "RelativeDocumentMoniker": "Feriados.Core\\Feriados.Core.csproj",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Feriados.Core.csproj",
+              "RelativeToolTip": "Feriados.Core\\Feriados.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T04:24:36.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.203\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAMoAAAAAAAAAAIAwwAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-25T21:56:56.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Feriados.Repositorios.csproj",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Repositorios\\Feriados.Repositorios.csproj",
+              "RelativeDocumentMoniker": "Feriados.Repositorios\\Feriados.Repositorios.csproj",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Repositorios\\Feriados.Repositorios.csproj",
+              "RelativeToolTip": "Feriados.Repositorios\\Feriados.Repositorios.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T04:24:48.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "Feriados.Presentacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Presentacion\\appsettings.json",
+              "RelativeToolTip": "Feriados.Presentacion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T11:09:19.701Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

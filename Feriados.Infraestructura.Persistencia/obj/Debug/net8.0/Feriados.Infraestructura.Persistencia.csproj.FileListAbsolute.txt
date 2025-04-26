@@ -1,0 +1,6 @@
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Infraestructura.Persistencia\obj\Debug\net8.0\Feriados.Infraestructura.Persistencia.csproj.AssemblyReference.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Infraestructura.Persistencia\obj\Debug\net8.0\Feriados.Infraestructura.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Infraestructura.Persistencia\obj\Debug\net8.0\Feriados.Infraestructura.Persistencia.AssemblyInfoInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Infraestructura.Persistencia\obj\Debug\net8.0\Feriados.Infraestructura.Persistencia.AssemblyInfo.cs
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Infraestructura.Persistencia\obj\Debug\net8.0\Feriados.Infraestructura.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Infraestructura.Persistencia\obj\Debug\net8.0\Feriados.Infraestructura.Persistencia.sourcelink.json

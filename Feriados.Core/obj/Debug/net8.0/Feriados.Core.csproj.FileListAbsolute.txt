@@ -1,0 +1,16 @@
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\bin\Debug\net8.0\Feriados.Core.deps.json
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\bin\Debug\net8.0\Feriados.Core.dll
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\bin\Debug\net8.0\Feriados.Core.pdb
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\bin\Debug\net8.0\Feriados.Dominio.dll
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\bin\Debug\net8.0\Feriados.Dominio.pdb
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.csproj.AssemblyReference.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.AssemblyInfoInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.AssemblyInfo.cs
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.sourcelink.json
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.438AAF6D.Up2Date
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.dll
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\refint\Feriados.Core.dll
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\Feriados.Core.pdb
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Core\obj\Debug\net8.0\ref\Feriados.Core.dll

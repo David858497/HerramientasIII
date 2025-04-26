@@ -1,0 +1,124 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Feriados.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Feriados.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Feriados.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Feriados.Core.dll": {}
+        }
+      },
+      "Feriados.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Feriados.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Feriados.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feriados.Core/1.0.0": {
+      "type": "project",
+      "path": "../Feriados.Core/Feriados.Core.csproj",
+      "msbuildProject": "../Feriados.Core/Feriados.Core.csproj"
+    },
+    "Feriados.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Feriados/Feriados.Dominio.csproj",
+      "msbuildProject": "../Feriados/Feriados.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Feriados.Core >= 1.0.0",
+      "Feriados.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\juanj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Feriados.Aplicacion.csproj",
+      "projectName": "Feriados.Aplicacion",
+      "projectPath": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\Feriados.Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\juanj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Aplicacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\juanj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Feriados.Core.csproj": {
+              "projectPath": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados.Core\\Feriados.Core.csproj"
+            },
+            "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Feriados.Dominio.csproj": {
+              "projectPath": "C:\\Users\\juanj\\Downloads\\HerramientasIII-main\\HerramientasIII-main\\Feriados\\Feriados.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\bin\Debug\net8.0\Feriados.Dominio.deps.json
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\bin\Debug\net8.0\Feriados.Dominio.dll
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\bin\Debug\net8.0\Feriados.Dominio.pdb
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\Feriados.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\Feriados.Dominio.AssemblyInfoInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\Feriados.Dominio.AssemblyInfo.cs
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\Feriados.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\Feriados.Dominio.dll
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\refint\Feriados.Dominio.dll
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\Feriados.Dominio.pdb
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados\obj\Debug\net8.0\ref\Feriados.Dominio.dll

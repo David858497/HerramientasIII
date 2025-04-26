@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Feriados.Dominio": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:30295;http://localhost:30296"
+    }
+  }
+}

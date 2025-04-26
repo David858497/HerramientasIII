@@ -1,0 +1,7 @@
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Presentacion\obj\Debug\net8.0\Feriados.Presentacion.csproj.AssemblyReference.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Presentacion\obj\Debug\net8.0\Feriados.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Presentacion\obj\Debug\net8.0\Feriados.Presentacion.AssemblyInfoInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Presentacion\obj\Debug\net8.0\Feriados.Presentacion.AssemblyInfo.cs
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Presentacion\obj\Debug\net8.0\Feriados.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Presentacion\obj\Debug\net8.0\Feriados.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\juanj\Downloads\HerramientasIII-main\HerramientasIII-main\Feriados.Presentacion\obj\Debug\net8.0\Feriados.Presentacion.sourcelink.json

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Feriados.Aplicacion/1.0.0": {
+        "dependencies": {
+          "Feriados.Core": "1.0.0",
+          "Feriados.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Feriados.Aplicacion.dll": {}
+        }
+      },
+      "Feriados.Core/1.0.0": {
+        "dependencies": {
+          "Feriados.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Feriados.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Feriados.Dominio/1.0.0": {
+        "runtime": {
+          "Feriados.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Feriados.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Feriados.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Feriados.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
